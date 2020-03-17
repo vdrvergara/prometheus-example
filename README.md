@@ -9,6 +9,6 @@ This is the example from https://github.com/prometheus/client_python, reformatte
 # Usage
 To deploy inside an Openshift cluster run
 ```
-oc new-app python:3.6~https://github.com/Makdaam/prometheus-example
+oc new-app python:3.6~https://github.com/vdrvergara/prometheus-example
 ```
 
